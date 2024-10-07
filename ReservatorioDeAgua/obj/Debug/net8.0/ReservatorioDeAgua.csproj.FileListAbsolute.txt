@@ -1,0 +1,15 @@
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\bin\Debug\net8.0\ReservatorioDeAgua.exe
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\bin\Debug\net8.0\ReservatorioDeAgua.deps.json
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\bin\Debug\net8.0\ReservatorioDeAgua.runtimeconfig.json
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\bin\Debug\net8.0\ReservatorioDeAgua.dll
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\bin\Debug\net8.0\ReservatorioDeAgua.pdb
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.AssemblyInfoInputs.cache
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.AssemblyInfo.cs
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.csproj.CoreCompileInputs.cache
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.sourcelink.json
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.dll
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\refint\ReservatorioDeAgua.dll
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.pdb
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.genruntimeconfig.cache
+D:\Mateus\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ref\ReservatorioDeAgua.dll
